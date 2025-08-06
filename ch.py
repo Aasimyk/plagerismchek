@@ -39,7 +39,7 @@ def get_web_sources(query):
 
 def check_sentence_plagiarism(sentence):
     .
-    .
+    ..
     .
     .
     .
